@@ -1,0 +1,25 @@
+C:\Documents and Settings\stathis\My Documents\Visual Studio 2010\Projects\PDFmerger\PDFmerger\bin\Debug\PDFmerger.exe
+C:\Documents and Settings\stathis\My Documents\Visual Studio 2010\Projects\PDFmerger\PDFmerger\bin\Debug\PDFmerger.pdb
+C:\Documents and Settings\stathis\My Documents\Visual Studio 2010\Projects\PDFmerger\PDFmerger\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\stathis\My Documents\Visual Studio 2010\Projects\PDFmerger\PDFmerger\obj\x86\Debug\PDFmerger.Form1.resources
+C:\Documents and Settings\stathis\My Documents\Visual Studio 2010\Projects\PDFmerger\PDFmerger\obj\x86\Debug\PDFmerger.Properties.Resources.resources
+C:\Documents and Settings\stathis\My Documents\Visual Studio 2010\Projects\PDFmerger\PDFmerger\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\stathis\My Documents\Visual Studio 2010\Projects\PDFmerger\PDFmerger\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\stathis\My Documents\Visual Studio 2010\Projects\PDFmerger\PDFmerger\obj\x86\Debug\PDFmerger.exe
+C:\Documents and Settings\stathis\My Documents\Visual Studio 2010\Projects\PDFmerger\PDFmerger\obj\x86\Debug\PDFmerger.pdb
+C:\Documents and Settings\stathis\My Documents\Visual Studio 2010\Projects\PDFmerger\PDFmerger\bin\Debug\PdfSharp.dll
+C:\Documents and Settings\stathis\My Documents\Visual Studio 2010\Projects\PDFmerger\PDFmerger\bin\Debug\PdfSharp.resources.dll
+C:\Documents and Settings\stathis\My Documents\Visual Studio 2010\Projects\PDFmerger\PDFmerger\bin\Debug\PdfSharp.pdb
+C:\Documents and Settings\stathis\My Documents\Visual Studio 2010\Projects\PDFmerger\PDFmerger\bin\Debug\PdfSharp.xml
+C:\Documents and Settings\stathis\My Documents\Visual Studio 2010\Projects\PDFmerger\PDFmerger\bin\Debug\de\PdfSharp.resources.dll
+C:\Users\stathis\Dropbox\PDFmerger\PDFmerger\obj\x86\Debug\PDFmerger.exe
+C:\Users\stathis\Dropbox\PDFmerger\PDFmerger\obj\x86\Debug\PDFmerger.pdb
+C:\Users\stathis\Dropbox\PDFmerger\PDFmerger\bin\Debug\PDFmerger.exe
+C:\Users\stathis\Dropbox\PDFmerger\PDFmerger\bin\Debug\PDFmerger.pdb
+C:\Users\stathis\Dropbox\PDFmerger\PDFmerger\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\stathis\Dropbox\PDFmerger\PDFmerger\obj\x86\Debug\PDFmerger.Form1.resources
+C:\Users\stathis\Dropbox\PDFmerger\PDFmerger\obj\x86\Debug\PDFmerger.Properties.Resources.resources
+C:\Users\stathis\Dropbox\PDFmerger\PDFmerger\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\stathis\Dropbox\PDFmerger\PDFmerger\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\stathis\Dropbox\PDFmerger\PDFmerger\bin\Debug\PdfSharp.dll
+C:\Users\stathis\Dropbox\PDFmerger\PDFmerger\bin\Debug\PdfSharp.resources.dll
